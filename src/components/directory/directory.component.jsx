@@ -11,38 +11,33 @@ class Directory extends React.Component {
     this.state = {
       sections: [
         {
-          title: "Computers & Accessories",
-          imageUrl:
-            "https://i.ibb.co/K0Lp4T0/onur-binay-4-Ykxp-t4i08-unsplash.jpg",
+          title: "hats",
+          imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
           id: 1,
-          linkUrl: "ComputerAccessories",
+          linkUrl: "hats",
         },
         {
-          title: "Electronics",
-          imageUrl:
-            "https://i.ibb.co/mRVCXMC/altumcode-Ui3z-Mjp-Mrm-M-unsplash.jpg",
+          title: "jackets",
+          imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
           id: 2,
           linkUrl: "",
         },
         {
-          title: "Gaming accessories",
-          imageUrl:
-            "https://i.ibb.co/FmDSZGJ/florian-olivo-Mf23-RF8x-Ar-Y-unsplash.jpg",
+          title: "sneakers",
+          imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
           id: 3,
           linkUrl: "",
         },
         {
-          title: "VR",
-          imageUrl:
-            "https://i.ibb.co/qJZQ3xg/vinicius-amnx-amano-Mv-Jezf8-FT4o-unsplash.jpg",
+          title: "womens",
+          imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
           size: "large",
           id: 4,
           linkUrl: "",
         },
         {
-          title: "Kitchen Gadget",
-          imageUrl:
-            "https://i.ibb.co/wrvxmT7/jason-briscoe-Glia-HAJ3-5-A-unsplash.jpg",
+          title: "mens",
+          imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
           size: "large",
           id: 5,
           linkUrl: "",
